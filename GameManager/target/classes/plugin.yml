@@ -1,0 +1,12 @@
+name: GameManager
+version: '1.0-SNAPSHOT'
+main: gamemanager.gamemanager.GameManager
+api-version: '1.19'
+depend:
+  - DecentHolograms
+load-permissions-after: DecentHolograms
+commands:
+  game:
+    usage: /game
+  queue:
+    usage: /queue

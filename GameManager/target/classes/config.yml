@@ -1,0 +1,21 @@
+Worlds:
+  world1:
+    Mid:
+      x: 0
+      y: 100
+      z: 0
+    Radius: 200
+    Block: LODESTONE
+
+
+LeaderboardHologram:
+  world: world
+  x: 0
+  y: 0
+  z: 0
+
+LastGameHologram:
+  world: world
+  x: 0
+  y: 0
+  z: 0
